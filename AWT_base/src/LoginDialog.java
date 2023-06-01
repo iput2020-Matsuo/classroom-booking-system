@@ -1,3 +1,5 @@
+//Test 書き込めるかのテスト
+
 package client_system;
 
 import java.awt.*;
